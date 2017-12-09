@@ -87,7 +87,7 @@ _Detections before NMS_             |  _Detections after NMS_
 ## TODO
 Possible ways to improve the project:
 * Make the sliding window computation run in parallel - can dramatically speedup the code
-* Split processing of the image pyramid in `test_classifier` to different cores of the processor, that way each core can process a separate layer of the pyramid independently
+* Split processing of the image pyramid in `test_classifier.py` to different cores of the processor, that way each core can process a separate layer of the pyramid independently
 * Add bootstrapping (Hard Negative Mining)
 
 
