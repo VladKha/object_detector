@@ -1,0 +1,16 @@
+cycler==0.10.0
+decorator==4.1.2
+matplotlib==2.1.0
+networkx==2.0
+numpy==1.13.3
+olefile==0.44
+Pillow==4.3.0
+pyparsing==2.2.0
+python-dateutil==2.6.1
+pytz==2017.3
+PyWavelets==0.5.2
+scikit-image==0.13.1
+scikit-learn==0.19.1
+scipy==1.0.0
+six==1.11.0
+tqdm==4.19.4
