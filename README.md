@@ -26,7 +26,7 @@ _The `test_object_detector.py` will download the
 [CelebA](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) and [WIDER FACE](http://mmlab.ie.cuhk.edu.hk/projects/WIDERFace/)
 datasets and train a classifier to detect faces in an image.
 The SVM model files will be stored in `data/models`,
-so that they can be reused later on in `testing_classifier.py`_
+so that they can be reused later on in `test_classifier.py`_
 
 
 ## Configuration File
